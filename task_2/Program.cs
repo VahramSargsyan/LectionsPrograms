@@ -20,4 +20,4 @@ double product3 = d1 * i1;
 
 
 double qoutient  = i2 / i1;
-Console.WriteLine(qoutient);
+Console.WriteLine(product3);
