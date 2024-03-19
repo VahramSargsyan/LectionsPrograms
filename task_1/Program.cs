@@ -5,6 +5,7 @@
 
 int value = 100;
 Console.WriteLine(value);
+
 double b = 5.5;
 char c ='!';
 bool d = true;
