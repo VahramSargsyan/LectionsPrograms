@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int a = 81;
+int b = 26;
+
+if (a > b)
+{
+    Console.WriteLine(a);
+}
+else
+{
+    Console.WriteLine(b);
+}
